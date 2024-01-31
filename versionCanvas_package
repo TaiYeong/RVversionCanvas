@@ -1,0 +1,14 @@
+package: Version Canvas
+author: Tai Yeong . Song
+version: 1.0
+rv: 3.6
+requires: ''
+
+modes:
+  - file: versionCanvas_engine
+    load: immediate
+
+  
+
+description: |
+  <p> Multiple versions viewer </p> 
